@@ -1,0 +1,20 @@
+[1001/162200.465:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1003/122142.568:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1004/173853.521:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1006/093257.472:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1025/171452.419:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1028/233459.758:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1030/170308.899:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dayglad\Application\58.0.3029.81\chrome.dll: Не найден указанный модуль. (0x7E)
+[1030/170323.072:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dayglad\Application\58.0.3029.81\chrome.dll: Не найден указанный модуль. (0x7E)
+[1030/171258.424:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dayglad\Application\58.0.3029.81\chrome.dll: Не найден указанный модуль. (0x7E)
+[1031/164611.880:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1102/173602.752:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1105/163328.499:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1114/162723.731:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1128/231240.900:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[1115/204341.976:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dayglad\Application\58.0.3029.81\chrome.dll: Не найден указанный модуль. (0x7E)
+[1115/204354.237:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dayglad\Application\58.0.3029.81\chrome.dll: Не найден указанный модуль. (0x7E)
+[1115/204354.329:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dayglad\Application\58.0.3029.81\chrome.dll: Не найден указанный модуль. (0x7E)
+[1115/204354.478:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dayglad\Application\58.0.3029.81\chrome.dll: Не найден указанный модуль. (0x7E)
+[1115/204354.638:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dayglad\Application\58.0.3029.81\chrome.dll: Не найден указанный модуль. (0x7E)
+[1117/000557.033:ERROR:main_dll_loader_win.cc(136)] Failed to load Chrome DLL from C:\Program Files (x86)\Dayglad\Application\58.0.3029.81\chrome.dll: Не найден указанный модуль. (0x7E)
